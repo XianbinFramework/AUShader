@@ -294,7 +294,7 @@ Declare global function and variables outside of main fragment function.
 
 [QuickStart][23c73827]
 
-  [23c73827]: https://github.com/XianbinFramework/AUShader/DemoQuickStart "QuickStart"
+  [23c73827]: https://github.com/XianbinFramework/AUShader/tree/master/DemoQuickStart "QuickStart"
 
 ----------------------------------------------
 
